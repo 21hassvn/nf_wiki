@@ -1,10 +1,10 @@
 input: .
 output: .retype
-url: # 
+url: https://wiki.newfrontier-rp.fr
 branding:
   title: New Frontier
   label: RP
-  logo: img\logo.png
+  logo: img/logo.png
 links:
 - text: Rejoinds notre discord
   link: https://retype.com/guides/getting-started/
